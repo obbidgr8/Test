@@ -1,0 +1,415 @@
+body{
+  font-family: "Montserrat";
+}
+
+h1, h3, h5 {
+  font-family: "Montserrat";
+  font-weight: bold;
+}
+
+h2 {
+  font-family: "Montserrat";
+  font-size: 2rem;
+  line-height: 1.5;
+}
+
+h4 {
+  font-family: "Montserrat";
+  font-size: 1rem;
+  line-height: 1.5;
+}
+
+p {
+  color: #F39129;
+  font-weight: bold;
+}
+
+h6 {
+  font-family: "Montserrat";
+  font-size: .8rem;
+}
+
+/* Headings */
+
+.big-heading {
+  font-family: "Montserrat";
+  font-weight: bold;
+  font-size: 3.5rem;
+  line-height: 1.5;
+}
+
+#title{
+  background-color: #F39129;
+  color: #fff;
+}
+
+.container-fluid{
+  padding: 3% 15% 7%;
+}
+
+
+/* Navigation Bar */
+
+.logo-png {
+  width: 20%;
+}
+
+.navbar {
+  padding: 0 0 4.5rem;
+}
+
+.navbar-brand{
+  font-family: "Ubuntu";
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+
+.nav-item{
+  padding: 0 18px;
+}
+
+.nav-link {
+  font-size: 1.2rem;
+}
+
+/* Download Buttons */
+
+.download-button {
+  margin: 5% 3% 5% 0;
+}
+
+/* Title Image */
+
+.title-image{
+  width: 115%;
+  top: 20%;
+  transform: rotate(-35deg);
+  position: absolute;
+}
+
+/* Supporting System images */
+
+.johnny {
+  width: 12%;
+}
+
+.paresh {
+  width: 15%;
+}
+
+.manoj {
+  width: 22%;
+}
+
+.nana {
+  width: 20%;
+}
+
+.nawaz {
+  width: 15%;
+}
+
+/* Falooda Images */
+
+.srk {
+  width: 22%;
+}
+
+.bigb {
+  width: 20%;
+}
+
+.salman {
+  width: 15%;
+}
+
+.akshay {
+  width: 15%;
+}
+
+.aamir {
+  width: 22%;
+}
+
+/* Mocktails Images */
+
+.mogambo {
+width:35%;
+}
+
+.gabbar{
+width: 18%;
+}
+
+.gogo {
+width: 25%;
+}
+
+.joker {
+width: 18%;
+}
+
+.thanos {
+width: 22%;
+}
+
+/* Features Sections */
+
+#features {
+  padding: 7% 15%;
+  background:#fff;
+  position: relative;
+  z-index: 1;
+}
+
+.feature-box {
+  text-align: center;
+  padding: 5%;
+}
+
+.icon {
+  color: #F39129;
+  margin-bottom: 1rem;
+}
+
+.icon:hover {
+  color: #62DE8F;
+}
+
+/* testimonial Sections */
+#testimonials {
+  text-align: center;
+  background-color: #F39129;
+  color: #fff;
+}
+
+.testimonial-image {
+  width: 50%;
+  margin: 20px;
+}
+
+.carousel-item {
+  padding: 3% 15%;
+}
+
+#press {
+  padding-bottom:3%%;
+  text-align: center;
+  background-color: #ef8172;
+}
+
+.press-logo {
+  width: 15%;
+  margin: 20px 20px 50px;
+}
+
+/* Pricing */
+
+#pricing {
+  padding: 100px;
+  text-align: center;
+}
+
+.pricing-column {
+  padding: 3% 2%;
+}
+
+.card-header {
+  background-color: #F39129;
+  color: #fff;
+}
+
+.card-header:hover {
+  color: #62DE8F;
+}
+
+.card {
+background-color: #fff;
+}
+
+.card:hover {
+  color: #62DE8F;
+}
+
+
+
+/* Burger Images */
+.supandi {
+  width: 10%;
+}
+
+.chacha {
+  width: 15%;
+}
+
+.shikari {
+  width: 18%;
+}
+
+.tantri {
+  width: 18%;
+}
+
+.common {
+  width: 18%;
+}
+
+/* Pizza Images */
+
+.rock {
+  width: 17%;
+}
+
+.undertaker {
+  width: 18%;
+}
+
+.stone {
+  width: 15%;
+}
+
+.bret {
+  width: 18%;
+}
+
+.cena {
+  width: 15%;
+}
+
+/* Pasta Images */
+
+.bugs {
+  width: 18%;
+}
+
+.singham {
+  width: 15%;
+}
+
+.raju {
+  width: 18%;
+}
+
+.popeye {
+  width: 18%;
+}
+
+.tweety {
+  width: 15%;
+}
+
+/* Sandwich Images */
+
+.super {
+  width: 20%;
+}
+
+.batman {
+  width: 15%;
+}
+
+.spiderman {
+  width: 18%;
+}
+
+.hulk {
+  width: 21%;
+}
+
+.ironman {
+  width: 15%;
+}
+
+/* Noodle Images */
+
+.bruce {
+  width: 15%;
+}
+
+.kid
+  {
+    width: 15%;
+  }
+
+.kung
+    {
+      width: 15%;
+    }
+.jackie
+    {
+      width: 18%;
+      }
+.shaolin {
+  width: 20%;
+}
+
+/* Dessert images */
+
+.sachin {
+  width: 30%;
+}
+
+.dhoni {
+  width:30%;
+}
+
+.kapil {
+  width: 25%;
+}
+
+.virat {
+  width: 26%;
+}
+
+.yuraj {
+  width: 25%;
+}
+
+/* CTA Section */
+
+#cta {
+  background-color: #F39129;
+  color: #fff;
+  padding: 7% 15%;
+  text-align: center;
+}
+
+.cta-heading {
+  font-family: "Montserrat";
+    font-weight: bold;
+    font-size: 2rem;
+    line-height: 1.5;
+}
+
+.btn {
+  text-decoration: none;
+  color: #fff;
+}
+
+.order-link {
+  color: #fff;
+  text-decoration: none;
+}
+
+/* Footer Section */
+
+#footer {
+  padding: 5% 5% 1%;
+  text-align: center;
+}
+
+.social-icon {
+  margin: 20px 10px 100px;
+}
+
+
+@media (max-width: 1028px) {
+  #title {
+    text-align: center;
+  }
+
+  .title-image {
+    position: static;
+    transform: rotate(0);
+  }
+}
